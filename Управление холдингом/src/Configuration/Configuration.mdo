@@ -30,4 +30,5 @@
     <languageCode>ru</languageCode>
   </languages>
   <constants>Constant.НоваяКонстанта</constants>
+  <constants>Constant.ВтораяКонстанта</constants>
 </mdclass:Configuration>
