@@ -31,4 +31,5 @@
   </languages>
   <constants>Constant.НоваяКонстанта</constants>
   <constants>Constant.ВтораяКонстанта</constants>
+  <constants>Constant.ТретьяКонстанта</constants>
 </mdclass:Configuration>
